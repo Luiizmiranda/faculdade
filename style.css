@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,h2{
+    color: red;
+}
+header >h1{
+    text-align: center;
+}
+
+div>img{
+    text-align: center;
+    width: 700px;
+}
+table{
+    width: 600px;
+    border-collapse: collapse;
+}
+
+td{
+    border: 1px solid black;
+    padding: 9px;
+}
